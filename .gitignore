@@ -1,6 +1,8 @@
 .classpath
 .gitignore
 .project
-*.log
+*.log*
 .settings/
 target/
+.DS_STORE
+.vscode
